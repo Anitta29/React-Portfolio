@@ -1,0 +1,49 @@
+.navbar {
+  background-color: teal;
+  font-family: 'Arizonia', cursive;
+  font-size: 40px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: wheat;
+  
+}
+.fa {
+  padding: 20px;
+  font-size: 80px;
+  text-align: center;
+  text-decoration: none;
+ 
+}  
+.fa-github, .fa-download {
+  background: teal;
+  color: saddlebrown;
+  margin: 120px 80px;
+
+  padding: 60px;
+  
+}
+
+.fa-envelope-o {
+    color: saddlebrown;
+    background: teal;
+    float: left;
+    margin: 120px 80px;
+  padding: 60px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-family: 'Arizonia', cursive;
+  font-size: 50px;
+  color: black;
+}
