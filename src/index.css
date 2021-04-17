@@ -11,6 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: wheat;
+  font-family: 'Arizonia', cursive;
   
 }
 .fa {
@@ -46,4 +47,15 @@ h1 {
   font-family: 'Arizonia', cursive;
   font-size: 50px;
   color: black;
+}
+.card {
+  background-color: teal;
+  font-size: 50px;
+  
+}
+a:hover {
+  color: white;
+}
+a {
+  color: brown;
 }

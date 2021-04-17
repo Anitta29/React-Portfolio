@@ -19,9 +19,9 @@ function Portfolio() {
                 </Col>
                 <Col md={4}>
                     <Card className="my-5">
-                        <Card.Img variant="top" src="/images/travelgod.png" />
+                        <Card.Img variant="top" src="/images/Moviebuddy.png" />
                         <Card.Body>
-                            <Card.Title><a href="https://anitta29.github.io/Travel-God-1-Project/">Travel God</a></Card.Title>
+                            <Card.Title><a href="https://moviebuddy1.herokuapp.com/">Movie Buddy</a></Card.Title>
                            
                             
                         </Card.Body>
@@ -29,9 +29,9 @@ function Portfolio() {
                 </Col>
                 <Col md={4}>
                     <Card className="my-5">
-                        <Card.Img variant="top" src="/images/travelgod.png" />
+                        <Card.Img variant="top" src="/images/wowrealtor.png" />
                         <Card.Body>
-                            <Card.Title><a href="https://anitta29.github.io/Travel-God-1-Project/">Travel God</a></Card.Title>
+                            <Card.Title><a href="https://wow-realtor-app.herokuapp.com/">Wow Realtor</a></Card.Title>
                            
                             
                         </Card.Body>
