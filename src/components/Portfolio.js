@@ -33,7 +33,6 @@ function Portfolio() {
                         <Card.Body>
                             <Card.Title><a href="https://wow-realtor-app.herokuapp.com/">Wow Realtor</a></Card.Title>
                            
-                            
                         </Card.Body>
                     </Card>
                 </Col>
